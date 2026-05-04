@@ -2,7 +2,7 @@
 
 An end-to-end **AI + Machine Learning system** that helps users learn Japanese for the JLPT (N5 → N1) using:
 
-- 🧠 AI-based grammar explanations  
+- 🧠 AI-based grammar explanations based on level
 - 🈶 Kanji learning with meanings & readings  
 - 🌐 Context-aware translation (casual / polite / formal)  
 - 📊 JLPT level detection using BERT  
