@@ -1,0 +1,114 @@
+{
+  "N1_Complete_Syllabus": {
+    "description": "The ability to understand Japanese used in a variety of circumstances. This is the advanced level required for academic research and high-level professional work.",
+    "requirements": {
+      "kanji": "Approximately 2,000 (1,000 new after N2)",
+      "vocabulary": "Approximately 10,000 words",
+      "listening_skills": "Can understand orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a wide variety of settings.",
+      "reading_skills": "Can read writings with logical complexity and/or abstract ideas on a broad range of topics, such as newspaper editorials and critiques."
+    },
+    "grammar": [
+      {
+        "pattern": "〜なりに / 〜なりの",
+        "explanation": "In a way that is appropriate to / In one's own way.",
+        "example": "子供なりに、一生懸命考えています。",
+        "translation": "In his own way, the child is thinking as hard as he can."
+      },
+      {
+        "pattern": "〜をもって",
+        "explanation": "By means of / With / As of (formal/literary).",
+        "example": "本日をもって、受付を終了いたします。",
+        "translation": "As of today, we will stop accepting applications."
+      },
+      {
+        "pattern": "〜がゆえに",
+        "explanation": "Because of / Due to (literary/classical style).",
+        "example": "有名人ゆえに、自由な行動ができない。",
+        "translation": "Because he is a celebrity, he cannot act freely."
+      },
+      {
+        "pattern": "〜まじき",
+        "explanation": "Should not / Must not / Unpardonable (formal).",
+        "example": "それは、警察官としてあるまじき行為だ。",
+        "translation": "That is an act that should not be committed by a police officer."
+      },
+      {
+        "pattern": "〜にかたくない",
+        "explanation": "Not difficult to (usually 'imagine' or 'understand').",
+        "example": "彼の落胆ぶりは、察するに難くない。",
+        "translation": "It is not difficult to imagine how discouraged he is."
+      },
+      {
+        "pattern": "〜極まりない",
+        "explanation": "Extremely / There is no limit to (negative connotation).",
+        "example": "彼の態度は、失礼極まりない。",
+        "translation": "His attitude is extremely rude."
+      },
+      {
+        "pattern": "〜ずにはおかない",
+        "explanation": "Will certainly do / Cannot help but...",
+        "example": "その映画は、見る人を感動させずにはおかない。",
+        "translation": "That movie never fails to move those who see it."
+      }
+    ],
+    "kanji_50": [
+      {"kanji": "執", "meaning": "Take/Execute/Administer", "readings": "shitsu/to-ru"},
+      {"kanji": "濫", "meaning": "Excessive/Overflow", "readings": "ran"},
+      {"kanji": "卑", "meaning": "Lowly/Vile/Base", "readings": "hi/iya-shii"},
+      {"kanji": "諮", "meaning": "Consult with", "readings": "shi/haka-ru"},
+      {"kanji": "逸", "meaning": "Deviate/Leisure/Excellent", "readings": "itsu"},
+      {"kanji": "遷", "meaning": "Transition/Move", "readings": "sen"},
+      {"kanji": "殊", "meaning": "Particularly/Especially", "readings": "shu/koto"},
+      {"kanji": "賦", "meaning": "Levy/Ode/Installment", "readings": "fu"},
+      {"kanji": "剛", "meaning": "Sturdy/Strong", "readings": "gou"},
+      {"kanji": "轄", "meaning": "Control/Jurisdiction", "readings": "katsu"},
+      {"kanji": "諧", "meaning": "Harmony", "readings": "kai"},
+      {"kanji": "綻", "meaning": "Be rent/Ripped", "readings": "tan/horoko-bu"},
+      {"kanji": "諮", "meaning": "Consult", "readings": "shi"},
+      {"kanji": "擁", "meaning": "Embrace/Protect", "readings": "you"},
+      {"kanji": "凝", "meaning": "Congeal/Freeze/Stiff", "readings": "gyou/ko-ru"},
+      {"kanji": "斤", "meaning": "Axe/Unit of weight", "readings": "kin"},
+      {"kanji": "頻", "meaning": "Repeatedly", "readings": "hin"},
+      {"kanji": "妥", "meaning": "Gentle/Peaceful", "readings": "da"},
+      {"kanji": "威", "meaning": "Intimidate/Dignity", "readings": "i"},
+      {"kanji": "豪", "meaning": "Overpowering/Great", "readings": "gou"},
+      {"kanji": "暫", "meaning": "Temporarily", "readings": "zan"},
+      {"kanji": "且", "meaning": "Moreover/Also", "readings": "sho/ka-tsu"},
+      {"kanji": "某", "meaning": "Certain/So-and-so", "readings": "bou/nanigashi"},
+      {"kanji": "衰", "meaning": "Decline/Wane", "readings": "sui/otoro-eru"},
+      {"kanji": "及", "meaning": "Reach Out/Exert", "readings": "kyuu/oyo-bu"},
+      {"kanji": "佳", "meaning": "Excellent/Beautiful", "readings": "ka"},
+      {"kanji": "虐", "meaning": "Tyrannize/Oppress", "readings": "gyaku/shiita-geru"},
+      {"kanji": "慶", "meaning": "Jubilation/Congratulate", "readings": "kei"},
+      {"kanji": "弔", "meaning": "Condolences", "readings": "chou/tomura-u"},
+      {"kanji": "嘱", "meaning": "Entrust/Request", "readings": "shoku"},
+      {"kanji": "廉", "meaning": "Bargain/Pure", "readings": "ren"},
+      {"kanji": "謹", "meaning": "Discreet/Respectfully", "readings": "kin/tsutsushi-mu"},
+      {"kanji": "呈", "meaning": "Display/Offer", "readings": "tei"},
+      {"kanji": "堪", "meaning": "Withstand/Endure", "readings": "kan/ta-eru"},
+      {"kanji": "暇", "meaning": "Spare time/Leisure", "readings": "ka/hima"},
+      {"kanji": "敷", "meaning": "Spread/Pave", "readings": "fu/shi-ku"},
+      {"kanji": "蔑", "meaning": "Ignore/Despise", "readings": "betsu/naigashiro"},
+      {"kanji": "逐", "meaning": "Pursue/Drive out", "readings": "chiku"},
+      {"kanji": "陥", "meaning": "Collapse/Fall into", "readings": "kan/ochi-iru"},
+      {"kanji": "諾", "meaning": "Consent/Agreement", "readings": "daku"},
+      {"kanji": "挑", "meaning": "Challenge", "readings": "chou/idoma-u"},
+      {"kanji": "欺", "meaning": "Deceit/Cheat", "readings": "gi/aza-muku"},
+      {"kanji": "購", "meaning": "Subscription/Purchase", "readings": "kou"},
+      {"kanji": "遭", "meaning": "Encounter/Meet", "readings": "sou/a-u"},
+      {"kanji": "遮", "meaning": "Intercept/Block", "readings": "sha/sagi-ru"},
+      {"kanji": "遷", "meaning": "Move/Transition", "readings": "sen"},
+      {"kanji": "遺", "meaning": "Bequeath/Leave behind", "readings": "i/yui"},
+      {"kanji": "奮", "meaning": "Stirred up/Excited", "readings": "fun/furu-u"},
+      {"kanji": "閑", "meaning": "Leisure", "readings": "kan"},
+      {"kanji": "圏", "meaning": "Sphere/Circle", "readings": "ken"}
+    ],
+    "study_plan": [
+      "1. Read specialized journals, academic papers, and classic literature.",
+      "2. Focus on literary and archaic grammar patterns used in formal speeches.",
+      "3. Understand the cultural and historical context behind advanced idioms.",
+      "4. Practice logical writing and expressing complex opinions on abstract topics.",
+      "5. Listen to high-speed news commentary and debates without subtitles."
+    ]
+  }
+}

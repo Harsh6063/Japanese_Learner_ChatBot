@@ -1,0 +1,114 @@
+{
+  "N3_Complete_Syllabus": {
+    "description": "The ability to understand Japanese used in specific everyday situations to a certain degree. This level bridges the gap between basic and advanced Japanese.",
+    "requirements": {
+      "kanji": "Approximately 650 (350 new after N4)",
+      "vocabulary": "Approximately 3,000 words",
+      "listening_skills": "Can understand coherent conversations in everyday situations, spoken at near-natural speed.",
+      "reading_skills": "Can read and understand passages on specific topics, headlines, and can grasp the summary of slightly difficult writings."
+    },
+    "grammar": [
+      {
+        "pattern": "〜うちに",
+        "explanation": "While / Before a change happens (while the state is still current).",
+        "example": "忘れないうちに、メモしておきます。",
+        "translation": "I'll make a note while I still remember (before I forget)."
+      },
+      {
+        "pattern": "〜べきだ",
+        "explanation": "Should do / Must do (moral obligation or strong advice).",
+        "example": "約束は守るべきだ。",
+        "translation": "One should keep their promises."
+      },
+      {
+        "pattern": "〜によって",
+        "explanation": "Due to / By / Depending on.",
+        "example": "人によって考え方が違います。",
+        "translation": "Way of thinking differs depending on the person."
+      },
+      {
+        "pattern": "〜たとたん（に）",
+        "explanation": "Just as / The moment something happened.",
+        "example": "窓を開けたとたん、強い風が入ってきた。",
+        "translation": "The moment I opened the window, a strong wind came in."
+      },
+      {
+        "pattern": "〜はずだ",
+        "explanation": "Expectation / It should be that...",
+        "example": "彼はもうすぐ来るはずです。",
+        "translation": "He should be here any minute."
+      },
+      {
+        "pattern": "〜にかわって",
+        "explanation": "Instead of / On behalf of.",
+        "example": "父にかわって、私が挨拶します。",
+        "translation": "I will give the greeting on behalf of my father."
+      },
+      {
+        "pattern": "〜せいか",
+        "explanation": "Perhaps because of (usually for a negative reason).",
+        "example": "風邪のせいか、頭が痛いです。",
+        "translation": "Perhaps because of a cold, my head hurts."
+      }
+    ],
+    "kanji_50": [
+      {"kanji": "政", "meaning": "Politics/Government", "readings": "sei"},
+      {"kanji": "議", "meaning": "Deliberation/Consultation", "readings": "gi"},
+      {"kanji": "連", "meaning": "Take along/Lead", "readings": "ren/tsu-reru"},
+      {"kanji": "対", "meaning": "Opposite/Against", "readings": "tai"},
+      {"kanji": "選", "meaning": "Elect/Select", "readings": "sen/era-bu"},
+      {"kanji": "関", "meaning": "Related/Barrier", "readings": "kan/seki"},
+      {"kanji": "戦", "meaning": "War/Fight", "readings": "sen/tataka-u"},
+      {"kanji": "最", "meaning": "Utmost/Most", "readings": "sai/mo-tto"},
+      {"kanji": "決", "meaning": "Decide/Fix", "readings": "ketsu/ki-meru"},
+      {"kanji": "表", "meaning": "Surface/Express", "readings": "hyou/omote"},
+      {"kanji": "調", "meaning": "Investigate/Tone", "readings": "chou/shira-beru"},
+      {"kanji": "化", "meaning": "Change/Influence", "readings": "ka/ba-keru"},
+      {"kanji": "当", "meaning": "Hit/Appropriate", "readings": "tou/ata-ru"},
+      {"kanji": "約", "meaning": "Promise/Approximate", "readings": "yaku"},
+      {"kanji": "首", "meaning": "Neck/Head", "readings": "shu/kubi"},
+      {"kanji": "法", "meaning": "Method/Law", "readings": "hou"},
+      {"kanji": "性", "meaning": "Gender/Nature", "readings": "sei/shou"},
+      {"kanji": "要", "meaning": "Need/Main point", "readings": "you/iru"},
+      {"kanji": "制", "meaning": "System/Control", "readings": "sei"},
+      {"kanji": "治", "meaning": "Govern/Cure", "readings": "ji/na-osu"},
+      {"kanji": "務", "meaning": "Duty/Business", "readings": "mu/tsuto-meru"},
+      {"kanji": "成", "meaning": "Become/Grow", "readings": "sei/na-ru"},
+      {"kanji": "期", "meaning": "Period/Term", "readings": "ki"},
+      {"kanji": "取", "meaning": "Take/Fetch", "readings": "shu/to-ru"},
+      {"kanji": "和", "meaning": "Harmony/Japanese", "readings": "wa"},
+      {"kanji": "機", "meaning": "Machine/Opportunity", "readings": "ki"},
+      {"kanji": "解", "meaning": "Untie/Solve", "readings": "kai/to-ku"},
+      {"kanji": "容", "meaning": "Contain/Form", "readings": "you"},
+      {"kanji": "権", "meaning": "Authority/Rights", "readings": "ken"},
+      {"kanji": "設", "meaning": "Establish", "readings": "setsu/mou-keru"},
+      {"kanji": "願", "meaning": "Petition/Wish", "readings": "gan/nega-u"},
+      {"kanji": "感", "meaning": "Emotion/Feel", "readings": "kan"},
+      {"kanji": "想", "meaning": "Concept/Thought", "readings": "sou"},
+      {"kanji": "罪", "meaning": "Guilt/Sin", "readings": "zai/tsumi"},
+      {"kanji": "複", "meaning": "Duplicate/Compound", "readings": "fuku"},
+      {"kanji": "辞", "meaning": "Resign/Word", "readings": "ji/ya-meru"},
+      {"kanji": "演", "meaning": "Performance", "readings": "en"},
+      {"kanji": "際", "meaning": "Occasion/Edge", "readings": "sai/kiwa"},
+      {"kanji": "査", "meaning": "Inspect", "readings": "sa"},
+      {"kanji": "判", "meaning": "Judgement/Seal", "readings": "han"},
+      {"kanji": "防", "meaning": "Ward off/Defend", "readings": "bou/fuse-gu"},
+      {"kanji": "及", "meaning": "Reach/Exert", "readings": "kyuu/oyo-bu"},
+      {"kanji": "態", "meaning": "Condition/Appearance", "readings": "tai"},
+      {"kanji": "格", "meaning": "Status/Rank", "readings": "kaku"},
+      {"kanji": "役", "meaning": "Duty/Role", "readings": "yaku"},
+      {"kanji": "報", "meaning": "Report/Reward", "readings": "hou/muku-iru"},
+      {"kanji": "検", "meaning": "Examination", "readings": "ken"},
+      {"kanji": "確", "meaning": "Certain/Confirm", "readings": "kaku/tashi-ka"},
+      {"kanji": "容", "meaning": "Content/Form", "readings": "you"},
+      {"kanji": "演", "meaning": "Perform", "readings": "en"}
+    ],
+    "study_plan": [
+      "1. Build a habit of reading Japanese news (NHK News Web Easy).",
+      "2. Master 'Keigo' (Formal language) basics, as they start appearing here.",
+      "3. Memorize transitive vs. intransitive verb pairs.",
+      "4. Practice listening to long-form dialogues and identifying the main point.",
+      "5. Use 'Connector' grammar (e.g., node, kara, noni) for more complex logic."
+    ]
+  }
+}

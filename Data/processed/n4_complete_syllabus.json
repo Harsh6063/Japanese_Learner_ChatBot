@@ -1,0 +1,114 @@
+{
+  "N4_Complete_Syllabus": {
+    "description": "The ability to understand Japanese used in everyday situations. This is the 'Daily Life' fluency level.",
+    "requirements": {
+      "kanji": "Approximately 300 (200 new after N5)",
+      "vocabulary": "Approximately 1,500 words",
+      "listening_skills": "Can understand conversations encountered in daily life and follow their contents to a large degree.",
+      "reading_skills": "Can read and understand passages on familiar daily topics written with basic vocabulary and kanji."
+    },
+    "grammar": [
+      {
+        "pattern": "〜ことができる",
+        "explanation": "Expresses ability or possibility (Can do).",
+        "example": "日本料理を作ることができます。",
+        "translation": "I can cook Japanese food."
+      },
+      {
+        "pattern": "〜たことがある",
+        "explanation": "Expresses past experience (Have done before).",
+        "example": "富士山に登ったことがあります。",
+        "translation": "I have climbed Mt. Fuji before."
+      },
+      {
+        "pattern": "〜すぎる",
+        "explanation": "Expresses excessiveness (Too much).",
+        "example": "お酒を飲みすぎました。",
+        "translation": "I drank too much sake."
+      },
+      {
+        "pattern": "〜ほうがいい",
+        "explanation": "Used to give advice (Had better do).",
+        "example": "早く寝たほうがいいですよ。",
+        "translation": "You had better go to sleep early."
+      },
+      {
+        "pattern": "〜といわれる",
+        "explanation": "Passive form (To be told).",
+        "example": "先生に褒められました。",
+        "translation": "I was praised by the teacher."
+      },
+      {
+        "pattern": "〜つもりだ",
+        "explanation": "Expresses intention (Plan to do).",
+        "example": "来年、日本へ行くつもりです。",
+        "translation": "I plan to go to Japan next year."
+      },
+      {
+        "pattern": "〜みたいだ / 〜そうだ",
+        "explanation": "Expresses appearance or hearsay (Seems like / Looks like).",
+        "example": "雨が降りそうです。",
+        "translation": "It looks like it will rain."
+      }
+    ],
+    "kanji_50": [
+      {"kanji": "心", "meaning": "Heart/Mind", "readings": "shin/kokoro"},
+      {"kanji": "思", "meaning": "Think", "readings": "shi/omo-u"},
+      {"kanji": "終", "meaning": "End/Finish", "readings": "shuu/owa-ru"},
+      {"kanji": "始", "meaning": "Begin/Start", "readings": "shi/haji-meru"},
+      {"kanji": "物", "meaning": "Thing/Object", "readings": "butsu/mono"},
+      {"kanji": "肉", "meaning": "Meat", "readings": "niku"},
+      {"kanji": "事", "meaning": "Matter/Thing", "readings": "ji/koto"},
+      {"kanji": "使", "meaning": "Use", "readings": "shi/tsuka-u"},
+      {"kanji": "便", "meaning": "Convenience", "readings": "ben/bin"},
+      {"kanji": "利", "meaning": "Profit/Advantage", "readings": "ri"},
+      {"kanji": "不", "meaning": "Negative/Non-", "readings": "fu/bu"},
+      {"kanji": "度", "meaning": "Degree/Time", "readings": "do"},
+      {"kanji": "待", "meaning": "Wait", "readings": "tai/ma-tsu"},
+      {"kanji": "持", "meaning": "Hold/Carry", "readings": "ji/mo-tsu"},
+      {"kanji": "特", "meaning": "Special", "readings": "toku"},
+      {"kanji": "別", "meaning": "Separate/Different", "readings": "betsu/wa-keru"},
+      {"kanji": "家", "meaning": "House", "readings": "ka/ie"},
+      {"kanji": "族", "meaning": "Tribe/Family", "readings": "zoku"},
+      {"kanji": "親", "meaning": "Parent/Intimacy", "readings": "shin/oya"},
+      {"kanji": "兄", "meaning": "Older Brother", "readings": "kyou/ani"},
+      {"kanji": "姉", "meaning": "Older Sister", "readings": "shi/ane"},
+      {"kanji": "弟", "meaning": "Younger Brother", "readings": "dai/otouto"},
+      {"kanji": "妹", "meaning": "Younger Sister", "readings": "mai/imouto"},
+      {"kanji": "私", "meaning": "I/Private", "readings": "shi/watashi"},
+      {"kanji": "夫", "meaning": "Husband", "readings": "fu/otto"},
+      {"kanji": "妻", "meaning": "Wife", "readings": "sai/tsuma"},
+      {"kanji": "主", "meaning": "Main/Lord", "readings": "shuu/nushi"},
+      {"kanji": "住", "meaning": "Dwell/Live", "readings": "juu/su-mu"},
+      {"kanji": "糸", "meaning": "Thread", "readings": "shi/ito"},
+      {"kanji": "氏", "meaning": "Surname/Clan", "readings": "shi/uji"},
+      {"kanji": "紙", "meaning": "Paper", "readings": "shi/kami"},
+      {"kanji": "教", "meaning": "Teach", "readings": "kyou/oshi-eru"},
+      {"kanji": "室", "meaning": "Room", "readings": "shitsu/muro"},
+      {"kanji": "習", "meaning": "Learn", "readings": "shuu/nara-u"},
+      {"kanji": "言", "meaning": "Say", "readings": "gen/i-u"},
+      {"kanji": "話", "meaning": "Speak", "readings": "wa/hana-su"},
+      {"kanji": "読", "meaning": "Read", "readings": "doku/yo-mu"},
+      {"kanji": "書", "meaning": "Write", "readings": "sho/ka-ku"},
+      {"kanji": "語", "meaning": "Language", "readings": "go/kata-ru"},
+      {"kanji": "聞", "meaning": "Hear/Listen", "readings": "bun/ki-ku"},
+      {"kanji": "立", "meaning": "Stand", "readings": "ritsu/ta-tsu"},
+      {"kanji": "開", "meaning": "Open", "readings": "kai/a-keru"},
+      {"kanji": "閉", "meaning": "Close", "readings": "hei/shi-meru"},
+      {"kanji": "問", "meaning": "Question", "readings": "mon/to-u"},
+      {"kanji": "知", "meaning": "Know", "readings": "chi/shi-ru"},
+      {"kanji": "歌", "meaning": "Song", "readings": "ka/uta"},
+      {"kanji": "楽", "meaning": "Comfort/Music", "readings": "raku/tano-shii"},
+      {"kanji": "映", "meaning": "Reflect/Project", "readings": "ei/utsu-su"},
+      {"kanji": "画", "meaning": "Picture/Stroke", "readings": "ga/kaku"},
+      {"kanji": "転", "meaning": "Revolve/Turn", "readings": "ten/koro-bu"}
+    ],
+    "study_plan": [
+      "1. Master N4 verb conjugations (Passive, Causative, Potential).",
+      "2. Learn the next 200 Kanji (bringing total to 300).",
+      "3. Shift focus from single words to reading short essays and stories.",
+      "4. Practice listening to natural-speed conversations about daily routines.",
+      "5. Use 'Conditionals' (if/when) correctly in sentences (~tara, ~ba, ~to)."
+    ]
+  }
+}

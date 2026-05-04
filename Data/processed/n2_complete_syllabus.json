@@ -1,0 +1,114 @@
+{
+  "N2_Complete_Syllabus": {
+    "description": "The ability to understand Japanese used in everyday situations, and in a variety of circumstances to a certain degree. This is the standard for working in a Japanese company.",
+    "requirements": {
+      "kanji": "Approximately 1,000 (350+ new after N3)",
+      "vocabulary": "Approximately 6,000 words",
+      "listening_skills": "Can understand orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed.",
+      "reading_skills": "Can read and understand articles and commentaries written about various topics, such as newspapers and magazines."
+    },
+    "grammar": [
+      {
+        "pattern": "〜ことだ",
+        "explanation": "Used when giving a strong suggestion or advice (Should / The thing is...).",
+        "example": "日本語が上手になりたければ、毎日話すことだ。",
+        "translation": "If you want to become good at Japanese, you should speak it every day."
+      },
+      {
+        "pattern": "〜おかげで / 〜せいで",
+        "explanation": "Thanks to (positive) / Because of (negative).",
+        "example": "先生のおかげで、合格できました。",
+        "translation": "Thanks to my teacher, I was able to pass."
+      },
+      {
+        "pattern": "〜に際して",
+        "explanation": "On the occasion of / At the time of (formal).",
+        "example": "日本へ行くに際して、ビザを申請した。",
+        "translation": "On the occasion of going to Japan, I applied for a visa."
+      },
+      {
+        "pattern": "〜に基づいて",
+        "explanation": "Based on / On the basis of.",
+        "example": "この映画は、事実に基いて作られています。",
+        "translation": "This movie is based on a true story."
+      },
+      {
+        "pattern": "〜ぬきで",
+        "explanation": "Without / Leaving out.",
+        "example": "冗談抜きで、真面目に考えてください。",
+        "translation": "Jokes aside (leaving out jokes), please think seriously."
+      },
+      {
+        "pattern": "〜うちに / 〜ないうちに",
+        "explanation": "While... (before something else happens).",
+        "example": "暗くならないうちに、帰りましょう。",
+        "translation": "Let's go home before it gets dark."
+      },
+      {
+        "pattern": "〜たびに",
+        "explanation": "Whenever / Every time (something happens).",
+        "example": "その写真を見るたびに、家族を思い出す。",
+        "translation": "Every time I look at that photo, I remember my family."
+      }
+    ],
+    "kanji_50": [
+      {"kanji": "賞", "meaning": "Prize/Award", "readings": "shou"},
+      {"kanji": "庫", "meaning": "Warehouse/Storehouse", "readings": "ko/kura"},
+      {"kanji": "録", "meaning": "Record", "readings": "roku"},
+      {"kanji": "齢", "meaning": "Age", "readings": "rei"},
+      {"kanji": "景", "meaning": "Scenery/View", "readings": "kei"},
+      {"kanji": "層", "meaning": "Layer/Stratum", "readings": "sou"},
+      {"kanji": "版", "meaning": "Edition/Print", "readings": "ban"},
+      {"kanji": "替", "meaning": "Exchange/Substitute", "readings": "tai/ka-eru"},
+      {"kanji": "預", "meaning": "Deposit/Entrust", "readings": "yo/azu-keru"},
+      {"kanji": "延", "meaning": "Prolong/Delay", "readings": "en/no-biru"},
+      {"kanji": "刻", "meaning": "Engrave/Carve/Time", "readings": "koku/kiza-mu"},
+      {"kanji": "障", "meaning": "Hinder/Interfere", "readings": "shou/sawa-ru"},
+      {"kanji": "供", "meaning": "Offer/Companion", "readings": "kyou/tomo"},
+      {"kanji": "並", "meaning": "Row/Ordinary", "readings": "hei/nami"},
+      {"kanji": "既", "meaning": "Already", "readings": "ki/sude-ni"},
+      {"kanji": "若", "meaning": "Young", "readings": "jaku/waka-i"},
+      {"kanji": "及", "meaning": "Reach/Exert", "readings": "kyuu/oyo-bu"},
+      {"kanji": "述", "meaning": "State/Mention", "readings": "jutsu/no-beru"},
+      {"kanji": "専", "meaning": "Specialty/Exclusively", "readings": "sen/moppa-ra"},
+      {"kanji": "札", "meaning": "Tag/Paper money", "readings": "satsu/fuda"},
+      {"kanji": "域", "meaning": "Area/Region", "readings": "iki"},
+      {"kanji": "補", "meaning": "Supplement/Assist", "readings": "ho/ogina-u"},
+      {"kanji": "額", "meaning": "Amount/Forehead", "readings": "gaku/hitai"},
+      {"kanji": "姿", "meaning": "Figure/Shape", "readings": "shi/sugata"},
+      {"kanji": "績", "meaning": "Achievement", "readings": "seki"},
+      {"kanji": "論", "meaning": "Argument/Theory", "readings": "ron"},
+      {"kanji": "収", "meaning": "Income/Obtain", "readings": "shuu/osa-meru"},
+      {"kanji": "備", "meaning": "Equip/Provide", "readings": "bi/sona-eru"},
+      {"kanji": "採", "meaning": "Adopt/Pick", "readings": "sai/to-ru"},
+      {"kanji": "判", "meaning": "Judge/Signature", "readings": "han/ban"},
+      {"kanji": "諸", "meaning": "Various/Many", "readings": "sho"},
+      {"kanji": "券", "meaning": "Ticket/Bond", "readings": "ken"},
+      {"kanji": "接", "meaning": "Touch/Contact", "readings": "setsu/tsu-gu"},
+      {"kanji": "善", "meaning": "Good/Virtue", "readings": "zen/yo-i"},
+      {"kanji": "護", "meaning": "Safeguard/Protect", "readings": "go/mamo-ru"},
+      {"kanji": "系", "meaning": "Lineage/System", "readings": "kei"},
+      {"kanji": "過", "meaning": "Exceed/Pass", "readings": "ka/su-giru"},
+      {"kanji": "状", "meaning": "Status/Letter", "readings": "jou"},
+      {"kanji": "典", "meaning": "Code/Ceremony", "readings": "ten"},
+      {"kanji": "勢", "meaning": "Forces/Energy", "readings": "sei/ikio-i"},
+      {"kanji": "各", "meaning": "Each/Every", "readings": "kaku/ono-ono"},
+      {"kanji": "否", "meaning": "Negate/No", "readings": "hi/ina"},
+      {"kanji": "際", "meaning": "Occasion/Boundary", "readings": "sai/kiwa"},
+      {"kanji": "編", "meaning": "Compile/Knit", "readings": "hen/a-mu"},
+      {"kanji": "捜", "meaning": "Search/Investigate", "readings": "sou/saga-su"},
+      {"kanji": "財", "meaning": "Wealth/Assets", "readings": "zai/sai"},
+      {"kanji": "占", "meaning": "Occupy/Fortune", "readings": "sen/ura-nau"},
+      {"kanji": "宣", "meaning": "Proclaim/Declare", "readings": "sen"},
+      {"kanji": "率", "meaning": "Ratio/Lead", "readings": "ritsu/sotsu"},
+      {"kanji": "略", "meaning": "Abbreviation/Strategy", "readings": "ryaku"}
+    ],
+    "study_plan": [
+      "1. Increase exposure to 'real' Japanese via novels, editorials, and documentaries.",
+      "2. Focus on nuance: Understand the difference between similar-looking grammar structures.",
+      "3. Drill compound Kanji words (Jukugo) and their formal readings.",
+      "4. Practice 'Speed Reading' to handle the significantly longer N2 reading sections.",
+      "5. Master polite vs. humble language (Sonkeigo/Kenjougo) to a professional level."
+    ]
+  }
+}

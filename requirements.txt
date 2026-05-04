@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+scikit-learn
+langchain
+langchain-community
+faiss-cpu
+groq
+python-dotenv
+streamlit

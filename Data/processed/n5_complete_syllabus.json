@@ -1,0 +1,152 @@
+{
+  "N5_Complete_Syllabus": {
+    "description": "The ability to understand some basic Japanese. This is the foundation of the language.",
+    "requirements": {
+      "kanji": "Approximately 100 characters",
+      "vocabulary": "Approximately 800 words",
+      "listening_skills": "Can follow short, slow conversations about daily life and classroom situations.",
+      "reading_skills": "Can read and undetand typical expressions and sentences written in hiragana, katakana, and basic kanji."
+    },
+    "writing_systems": {
+      "hiragana": [
+        {"char": "あ", "romaji": "a"}, {"char": "い", "romaji": "i"}, {"char": "う", "romaji": "u"}, {"char": "え", "romaji": "e"}, {"char": "お", "romaji": "o"},
+        {"char": "か", "romaji": "ka"}, {"char": "き", "romaji": "ki"}, {"char": "く", "romaji": "ku"}, {"char": "け", "romaji": "ke"}, {"char": "こ", "romaji": "ko"},
+        {"char": "さ", "romaji": "sa"}, {"char": "し", "romaji": "shi"}, {"char": "す", "romaji": "su"}, {"char": "せ", "romaji": "se"}, {"char": "そ", "romaji": "so"},
+        {"char": "た", "romaji": "ta"}, {"char": "ち", "romaji": "chi"}, {"char": "つ", "romaji": "tsu"}, {"char": "て", "romaji": "te"}, {"char": "と", "romaji": "to"},
+        {"char": "な", "romaji": "na"}, {"char": "に", "romaji": "ni"}, {"char": "ぬ", "romaji": "nu"}, {"char": "ね", "romaji": "ne"}, {"char": "の", "romaji": "no"},
+        {"char": "は", "romaji": "ha"}, {"char": "ひ", "romaji": "hi"}, {"char": "ふ", "romaji": "fu"}, {"char": "へ", "romaji": "he"}, {"char": "ほ", "romaji": "ho"},
+        {"char": "ま", "romaji": "ma"}, {"char": "み", "romaji": "mi"}, {"char": "む", "romaji": "mu"}, {"char": "め", "romaji": "me"}, {"char": "も", "romaji": "mo"},
+        {"char": "や", "romaji": "ya"}, {"char": "ゆ", "romaji": "yu"}, {"char": "よ", "romaji": "yo"},
+        {"char": "ら", "romaji": "ra"}, {"char": "り", "romaji": "ri"}, {"char": "る", "romaji": "ru"}, {"char": "れ", "romaji": "re"}, {"char": "ろ", "romaji": "ro"},
+        {"char": "わ", "romaji": "wa"}, {"char": "を", "romaji": "wo"}, {"char": "ん", "romaji": "n"}
+      ],
+      "katakana": [
+        {"char": "ア", "romaji": "a"}, {"char": "イ", "romaji": "i"}, {"char": "ウ", "romaji": "u"}, {"char": "エ", "romaji": "e"}, {"char": "オ", "romaji": "o"},
+        {"char": "カ", "romaji": "ka"}, {"char": "キ", "romaji": "ki"}, {"char": "ク", "romaji": "ku"}, {"char": "ケ", "romaji": "ke"}, {"char": "コ", "romaji": "ko"},
+        {"char": "サ", "romaji": "sa"}, {"char": "シ", "romaji": "shi"}, {"char": "ス", "romaji": "su"}, {"char": "セ", "romaji": "se"}, {"char": "ソ", "romaji": "so"},
+        {"char": "タ", "romaji": "ta"}, {"char": "チ", "romaji": "chi"}, {"char": "ツ", "romaji": "tsu"}, {"char": "テ", "romaji": "te"}, {"char": "ト", "romaji": "to"},
+        {"char": "ナ", "romaji": "na"}, {"char": "ニ", "romaji": "ni"}, {"char": "ヌ", "romaji": "nu"}, {"char": "ネ", "romaji": "ne"}, {"char": "ノ", "romaji": "no"},
+        {"char": "ハ", "romaji": "ha"}, {"char": "ヒ", "romaji": "hi"}, {"char": "フ", "romaji": "fu"}, {"char": "ヘ", "romaji": "he"}, {"char": "ホ", "romaji": "ho"},
+        {"char": "マ", "romaji": "ma"}, {"char": "ミ", "romaji": "mi"}, {"char": "ム", "romaji": "mu"}, {"char": "メ", "romaji": "me"}, {"char": "モ", "romaji": "mo"},
+        {"char": "ヤ", "romaji": "ya"}, {"char": "ユ", "romaji": "yu"}, {"char": "ヨ", "romaji": "yo"},
+        {"char": "ラ", "romaji": "ra"}, {"char": "リ", "romaji": "ri"}, {"char": "ル", "romaji": "ru"}, {"char": "レ", "romaji": "re"}, {"char": "ロ", "romaji": "ro"},
+        {"char": "ワ", "romaji": "wa"}, {"char": "ヲ", "romaji": "wo"}, {"char": "ン", "romaji": "n"}
+      ]
+    },
+    "verb_types": [
+      {
+        "type": "U-Verbs (Group 1 / Godan)",
+        "description": "Verbs that end in 'u' sounds (ku, su, tsu, nu, mu, ru, bu, gu). Their dictionary form ends in an ~u sound.",
+        "example_dict": "飲む (nomu - to drink)",
+        "example_polite": "飲みます (nomimasu)"
+      },
+      {
+        "type": "Ru-Verbs (Group 2 / Ichidan)",
+        "description": "Verbs that end in ~iru or ~eru. These are consistent and easy to conjugate.",
+        "example_dict": "食べる (taberu - to eat)",
+        "example_polite": "食べます (tabemasu)"
+      },
+      {
+        "type": "Irregular Verbs (Group 3)",
+        "description": "There are only two main irregular verbs in Japanese that you must memorize.",
+        "verbs": [
+          {"dict": "来る (kuru)", "meaning": "to come", "polite": "来ます (kimasu)"},
+          {"dict": "する (suru)", "meaning": "to do", "polite": "します (shimasu)"}
+        ]
+      }
+    ],
+    "kanji_50": [
+      {"kanji": "一", "meaning": "One", "readings": "ichi"},
+      {"kanji": "二", "meaning": "Two", "readings": "ni"},
+      {"kanji": "三", "meaning": "Three", "readings": "san"},
+      {"kanji": "四", "meaning": "Four", "readings": "yon/shi"},
+      {"kanji": "五", "meaning": "Five", "readings": "go"},
+      {"kanji": "六", "meaning": "Six", "readings": "roku"},
+      {"kanji": "七", "meaning": "Seven", "readings": "nana/shichi"},
+      {"kanji": "八", "meaning": "Eight", "readings": "hachi"},
+      {"kanji": "九", "meaning": "Nine", "readings": "kyuu"},
+      {"kanji": "十", "meaning": "Ten", "readings": "juu"},
+      {"kanji": "日", "meaning": "Sun/Day", "readings": "nichi/hi"},
+      {"kanji": "月", "meaning": "Moon/Month", "readings": "getsu/tsuki"},
+      {"kanji": "火", "meaning": "Fire", "readings": "ka"},
+      {"kanji": "水", "meaning": "Water", "readings": "sui/mizu"},
+      {"kanji": "木", "meaning": "Tree/Wood", "readings": "moku/ki"},
+      {"kanji": "金", "meaning": "Gold/Money", "readings": "kin/kane"},
+      {"kanji": "土", "meaning": "Soil/Earth", "readings": "do/tsuchi"},
+      {"kanji": "山", "meaning": "Mountain", "readings": "yama"},
+      {"kanji": "川", "meaning": "River", "readings": "kawa"},
+      {"kanji": "田", "meaning": "Rice Field", "readings": "ta"},
+      {"kanji": "人", "meaning": "Person", "readings": "jin/hito"},
+      {"kanji": "子", "meaning": "Child", "readings": "ko"},
+      {"kanji": "女", "meaning": "Woman", "readings": "onna"},
+      {"kanji": "男", "meaning": "Man", "readings": "otoko"},
+      {"kanji": "大", "meaning": "Big", "readings": "dai/oo-kii"},
+      {"kanji": "小", "meaning": "Small", "readings": "shou/chii-sai"},
+      {"kanji": "上", "meaning": "Up", "readings": "ue"},
+      {"kanji": "下", "meaning": "Down", "readings": "shita"},
+      {"kanji": "中", "meaning": "Middle", "readings": "naka"},
+      {"kanji": "右", "meaning": "Right", "readings": "migi"},
+      {"kanji": "左", "meaning": "Left", "readings": "hidari"},
+      {"kanji": "学", "meaning": "Study", "readings": "gaku"},
+      {"kanji": "校", "meaning": "School", "readings": "kou"},
+      {"kanji": "先", "meaning": "Ahead", "readings": "sen"},
+      {"kanji": "生", "meaning": "Life/Birth", "readings": "sei"},
+      {"kanji": "本", "meaning": "Book/Origin", "readings": "hon"},
+      {"kanji": "名", "meaning": "Name", "readings": "na"},
+      {"kanji": "何", "meaning": "What", "readings": "nani/nan"},
+      {"kanji": "見", "meaning": "See", "readings": "mi-ru"},
+      {"kanji": "行", "meaning": "Go", "readings": "i-ku"},
+      {"kanji": "来", "meaning": "Come", "readings": "ku-ru"},
+      {"kanji": "食", "meaning": "Eat", "readings": "ta-beru"},
+      {"kanji": "飲", "meaning": "Drink", "readings": "no-mu"},
+      {"kanji": "買", "meaning": "Buy", "readings": "ka-u"},
+      {"kanji": "休", "meaning": "Rest", "readings": "yasu-mu"},
+      {"kanji": "時", "meaning": "Time", "readings": "ji"},
+      {"kanji": "分", "meaning": "Minute/Part", "readings": "fun/pun"},
+      {"kanji": "午", "meaning": "Noon", "readings": "go"},
+      {"kanji": "前", "meaning": "Before", "readings": "mae"},
+      {"kanji": "後", "meaning": "After", "readings": "ato/ushiro"}
+    ],
+    "grammar": [
+      {
+        "pattern": "〜は〜です",
+        "explanation": "A is B. 'は' (pronounced 'wa') marks the topic.",
+        "example": "私は学生です。",
+        "translation": "I am a student."
+      },
+      {
+        "pattern": "〜を",
+        "explanation": "Object marker. Indicates what the verb is acting upon.",
+        "example": "パンを食べます。",
+        "translation": "I eat bread."
+      },
+      {
+        "pattern": "〜に/へ",
+        "explanation": "Directional particles indicating destination.",
+        "example": "日本に行きます。",
+        "translation": "I am going to Japan."
+      },
+      {
+        "pattern": "〜てください",
+        "explanation": "Polite request.",
+        "example": "座ってください。",
+        "translation": "Please sit down."
+      },
+      {
+        "pattern": "〜ている",
+        "explanation": "Present continuous (currently doing).",
+        "example": "テレビを見ています。",
+        "translation": "I am watching TV."
+      }
+    ],
+    "study_plan": [
+      "1. Master Hiragana and Katakana (Reading and Writing).",
+      "2. Memorize the 100 N5 Kanji and their common readings.",
+      "3. Build a vocabulary of 800 words using flashcards (Anki).",
+      "4. Practice verb conjugations (Masu-form, Te-form, Dictionary-form).",
+      "5. Listen to N5-level audio daily to improve ear for particles.",
+      "6. Take mock exams to manage time for the Reading and Listening sections."
+    ]
+  }
+  
+}
