@@ -192,13 +192,27 @@ translate I am happy casual → 嬉しい
 
 ---
 
+## 📊 Level Detection
+![Level](assets/level.png)
+
+---
+
+---
+
+## 🧠 Syllabus
+![Syllabus](assets/syllabus.png)
+
+---
+
+---
+
 ## 🈶 Kanji Output
 ![Kanji](assets/kanji.png)
 
 ---
 
-## 📊 Level Detection
-![Level](assets/level.png)
+## ✈️ Plan
+![Plan](assets/level.png)
 
 ---
 
