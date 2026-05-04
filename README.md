@@ -178,41 +178,41 @@ translate I am happy casual → 嬉しい
 # 🖥️ Screenshots
 
 ## 🏠 Home Screen
-![Home](assets/home.png)
+![Home](assets/Home.png)
 
 ---
 
 ## 🌐 Translation
-![Translation](assets/translation.png)
+![Translation](assets/Translation.png)
 
 ---
 
 ## 🧠 Grammar Explanation
-![Grammar](assets/grammar.png)
+![Grammar](assets/Grammar.png)
 
 ---
 
 ## 📊 Level Detection
-![Level](assets/level.png)
+![Level](assets/Level.png)
 
 ---
 
 ---
 
 ## 🧠 Syllabus
-![Syllabus](assets/syllabus.png)
+![Syllabus](assets/Syllabus.png)
 
 ---
 
 ---
 
 ## 🈶 Kanji Output
-![Kanji](assets/kanji.png)
+![Kanji](assets/Kanji.png)
 
 ---
 
 ## ✈️ Plan
-![Plan](assets/level.png)
+![Plan](assets/Plan.png)
 
 ---
 
